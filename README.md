@@ -33,7 +33,9 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀Bem-vindo ao meu projeto de padronização de READMEs no GitHub! Ao longo dos anos, percebi que muitos dos meus projetos no GitHub tinham READMEs inconsistentes e mal formatados. Para resolver esse problema, desenvolvi um modelo de README que atende a todos os requisitos necessários e padroniza a apresentação de informações importantes.***
+  ***⠀⠀⠀⠀Esse projeto é de um mini curso da internet***
+  
+ ## [curso](https://www.youtube.com/watch?v=jBOLRzjEERk)
 
 <br/>
 
@@ -42,9 +44,5 @@
 ## 🚀 Resultados 
   > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
 
-<br />   
 
-  ### ***⠀⠀⠀⠀⭐ Basta arrastar a imagem desseja para a readme copiar a url e substituir a imagem antiga pela nova***
-
-<br />   
 
