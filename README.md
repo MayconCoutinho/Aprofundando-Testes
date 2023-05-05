@@ -15,19 +15,6 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<p align="center">
-  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Ideias">💡 Refetencias  </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
- 
-<br/>
-
-
-#### 🚧 Readme em construção, estou pensando em uma boa forma de apresentar esse essa video aula 🚧
-
 <br/>
 
 <a id="Introdução"></a>
@@ -39,10 +26,6 @@
 
 <br/>
 
-
-<a id="Resultados"></a>
-## 🚀 Resultados 
-  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
 
 
 
