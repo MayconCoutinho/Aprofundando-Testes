@@ -33,7 +33,7 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀Esse projeto é de um mini curso da internet***
+  ***⠀⠀⠀⠀Hoje a preocupação das pessoas com arquitetura de software aumentou muito, mas como medir uma boa arquitetura? Para mim, uma das melhores métricas é analisar o quanto sua aplicação é testável, ou seja, o quão fácil é criar e manter testes, principalmente unitários. Nesse vídeo eu mostro como podemos pensar no desenvolvimento da aplicação de uma forma escalável desde o início, com baixo acoplamento e fácil de testar, utilizando conceitos de SOLID e outros princípios de design de software.***
   
  ## [curso](https://www.youtube.com/watch?v=jBOLRzjEERk)
 
