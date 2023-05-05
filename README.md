@@ -26,7 +26,7 @@
 <br/>
 
 
-### 🚧 Readme em construção, estou pensando em uma boa forma de apresentar esse essa video aula 🚧
+#### 🚧 Readme em construção, estou pensando em uma boa forma de apresentar esse essa video aula 🚧
 
 <br/>
 
