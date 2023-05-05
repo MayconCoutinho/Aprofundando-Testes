@@ -1,0 +1,16 @@
+{
+  "name": "solid-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "vitest": "^0.31.0"
+  }
+}
